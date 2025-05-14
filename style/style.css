@@ -106,10 +106,11 @@ body {
 .idea-6 span,
 .wish-hbd span {
   display: inline-block;
+  font-size: 80%;
 }
 
 .idea-6 span {
-  font-size: 15rem;
+  font-size: 12rem;
 }
 
 .six {
